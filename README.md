@@ -28,7 +28,7 @@ In this image, PowerShell is used to execute a script that writes sample log dat
 
 ### 6. Adjusting Windows Defender Firewall Settings
 ![Adjusting Windows Defender Firewall Settings](https://github.com/danartech/Honeynet-Azure-Project/blob/main/Screenshot%202024-07-23%20231336.png)
-This image shows the settings of Windows Defender Firewall on the honeypot VM, where firewall settings are adjusted, likely to disable them, making the VM more accessible for logging potential attacks.
+This image shows the settings of Windows Defender Firewall on the honeypot VM, where firewall settings are adjusted, to disable them, making the VM more accessible for logging potential attacks.
 
 ### 7. Reviewing Firewall Rules on the VM
 ![Reviewing Firewall Rules on the VM](https://github.com/danartech/Honeynet-Azure-Project/blob/main/Screenshot%202024-07-23%20231235.png)
