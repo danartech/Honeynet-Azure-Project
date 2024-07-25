@@ -32,7 +32,7 @@ This project demonstrates the setup and use of Microsoft Sentinel to monitor and
 
 - **Attack Sources:**
   - Major attacking countries included India, United States, Netherlands, China, and Hong Kong.
-  - Detailed data available in the attached Excel files for further analysis.
+  - Detailed data available in the attached log file for further analysis.
 
 ## Conclusion
 
