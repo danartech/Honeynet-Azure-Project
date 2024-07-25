@@ -4,6 +4,9 @@
 
 This project demonstrates the setup and use of Microsoft Sentinel to monitor and analyze real-time cyber attacks on a vulnerable honeypot virtual machine (VM) hosted in Microsoft Azure. The VM was intentionally exposed to attract attackers, and data from failed RDP (Remote Desktop Protocol) login attempts were captured and analyzed. The analysis included mapping the geographic origin of attacks, utilizing custom PowerShell scripts and third-party APIs for geolocation.
 
+![Live Cyber Attack](https://github.com/danartech/Honeynet-Azure-Project/blob/main/Screenshot%202024-07-24%20174223.png)
+
+
 ## Steps
 
 1. **Setup Azure Environment:**
@@ -37,6 +40,6 @@ The project successfully demonstrated the setup and use of Microsoft Sentinel fo
 
 ## Project Links
 
-- [GitHub Repository](https://github.com/DanaRobinson/SIEM-Map-Cyber-Attack-Honeypot)
-- [LinkedIn Project Description](https://www.linkedin.com/in/dana-robinson)
+- [GitHub Repository](https://github.com/danartech/Honeynet-Azure-Project)
+- [Failed_rdp_log](https://github.com/danartech/Honeynet-Azure-Project/blob/main/failedrdp.log)
 
